@@ -1,0 +1,157 @@
+[
+    {
+      "name": "All-Purpose Cleaner",
+      "description": "A versatile cleaner for all your cleaning needs.",
+      "price": 9.99,
+      "features": ["Removes stains", "Cuts through grease", "Fresh scent"],
+      "category": "Household"
+    },
+    {
+      "name": "Microfiber Cleaning Cloths",
+      "description": "Soft and durable cloths for streak-free cleaning.",
+      "price": 5.99,
+      "features": ["Lint-free", "Reusable", "Absorbs spills"],
+      "category": "Household"
+    },
+    {
+      "name": "Vacuum Cleaner",
+      "description": "Powerful vacuum for efficient cleaning of carpets and floors.",
+      "price": 149.99,
+      "features": ["HEPA filter", "Bagless design", "Adjustable suction"],
+      "category": "Appliances"
+    },
+    {
+      "name": "Dishwashing Detergent",
+      "description": "Effective detergent for sparkling clean dishes.",
+      "price": 7.49,
+      "features": ["Removes tough stains", "Gentle on hands", "Biodegradable"],
+      "category": "Kitchen"
+    },
+    {
+      "name": "Bathroom Cleaner",
+      "description": "Specially formulated to tackle bathroom grime and soap scum.",
+      "price": 8.99,
+      "features": ["Mold and mildew remover", "Fresh fragrance", "Cleans tiles"],
+      "category": "Household"
+    },
+    {
+      "name": "Laundry Detergent",
+      "description": "High-quality detergent for clean and fresh clothes.",
+      "price": 12.99,
+      "features": ["Stain-fighting power", "Fragrance options", "HE-compatible"],
+      "category": "Laundry"
+    },
+    {
+      "name": "Window Cleaner",
+      "description": "Streak-free formula for crystal-clear windows.",
+      "price": 6.49,
+      "features": ["No ammonia", "Cleans glass and mirrors", "Easy to use"],
+      "category": "Household"
+    },
+    {
+      "name": "Mop and Bucket Set",
+      "description": "Complete set for efficient floor cleaning.",
+      "price": 24.99,
+      "features": ["360-degree swivel mop", "Bucket with wringer", "Microfiber mop head"],
+      "category": "Household"
+    },
+    {
+      "name": "Oven Cleaner",
+      "description": "Tough on oven grease and grime for a spotless oven.",
+      "price": 7.99,
+      "features": ["No harsh fumes", "Easy spray application", "Removes baked-on residue"],
+      "category": "Kitchen"
+    },
+    {
+      "name": "Carpet Stain Remover",
+      "description": "Quickly removes tough stains from carpets and upholstery.",
+      "price": 10.99,
+      "features": ["Non-toxic formula", "Applicator brush", "Safe for pets"],
+      "category": "Household"
+    },
+    {
+      "name": "Dustpan and Broom Set",
+      "description": "Compact set for easy cleanup of dust and debris.",
+      "price": 7.99,
+      "features": ["Snap-on broom handle", "Dustpan with rubber lip", "Hanging loop"],
+      "category": "Household"
+    },
+    {
+      "name": "Stainless Steel Cleaner",
+      "description": "Cleans and polishes stainless steel appliances and surfaces.",
+      "price": 6.99,
+      "features": ["Leaves no residue", "Protects against fingerprints", "Easy spray application"],
+      "category": "Kitchen"
+    },
+    {
+      "name": "Toilet Bowl Cleaner",
+      "description": "Cleans and disinfects toilet bowls, leaving them fresh and sanitary.",
+      "price": 4.99,
+      "features": ["Kills germs", "Removes stains", "Long-lasting freshness"],
+      "category": "Bathroom"
+    },
+    {
+      "name": "Dust Mite Mattress Cover",
+      "description": "Protects your mattress from dust mites and allergens.",
+      "price": 19.99,
+      "features": ["Hypoallergenic", "Waterproof", "Easy to install"],
+      "category": "Bedroom"
+    },
+    {
+      "name": "Stain Remover Pen",
+      "description": "Easily removes stains on the go from clothing and fabrics.",
+      "price": 3.49,
+      "features": ["Compact design", "Instant stain removal", "Safe on most fabrics"],
+      "category": "Laundry"
+    },
+    {
+      "name": "Grout and Tile Brush",
+      "description": "Efficiently cleans grout and tile surfaces with ease.",
+      "price": 6.99,
+      "features": ["Sturdy bristles", "Ergonomic grip", "Hangable design"],
+      "category": "Bathroom"
+    },
+    {
+      "name": "Lemon Scented Air Freshener",
+      "description": "Refreshes the air with a pleasant lemon scent.",
+      "price": 2.49,
+      "features": ["Long-lasting fragrance", "Aerosol spray", "Eliminates odors"],
+      "category": "Household"
+    },
+    {
+      "name": "Dishwasher Rinse Aid",
+      "description": "Enhances dishwasher performance and leaves dishes spotless.",
+      "price": 5.99,
+      "features": ["Reduces spotting", "Improves drying", "Eco-friendly formula"],
+      "category": "Kitchen"
+    },
+    {
+      "name": "Bamboo Cleaning Brushes",
+      "description": "Eco-friendly and sustainable brushes for cleaning dishes and surfaces.",
+      "price": 8.99,
+      "features": ["Biodegradable", "Durable bristles", "Stylish bamboo handles"],
+      "category": "Kitchen"
+    },
+    {
+      "name": "Lint Roller",
+      "description": "Removes lint, pet hair, and debris from clothing and upholstery.",
+      "price": 3.49,
+      "features": ["30 sticky sheets", "Easy-to-peel design", "Compact size"],
+      "category": "Laundry"
+    },
+    {
+      "name": "Glass Stovetop Cleaner",
+      "description": "Cleans and polishes glass stovetops to a shine.",
+      "price": 7.99,
+      "features": ["Scratch-free formula", "Restores shine", "No residue"],
+      "category": "Kitchen"
+    },
+    {
+      "name": "Wood Floor Cleaner",
+      "description": "Gentle cleaner for wood floors, keeping them clean and shiny.",
+      "price": 10.99,
+      "features": ["Natural wood protection", "No harsh chemicals", "Easy spray application"],
+      "category": "Household"
+    }
+  ]
+
